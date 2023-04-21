@@ -6,3 +6,4 @@ There are various python notebooks that map to their respective use cases:
 
 <img width="418" alt="Screenshot 2023-04-21 at 15 39 04" src="https://user-images.githubusercontent.com/97652535/233573728-d8ff9cb7-dc0a-4a6e-a659-caf6fdcbdfaa.png">
 
+Some use cases and lab demos are direclty inspired by the work from Microsoft Azure S-CSA Team (https://github.com/Azure/azure-openai-samples). Thank you!
